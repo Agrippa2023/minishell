@@ -41,7 +41,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YourUsername/minishell.git
+   git clone https://github.com/Agrippa2023/minishell.git
    cd minishell
    ```
 
