@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Score-101%25-brightgreen.svg" alt="Score">
 </p>
 </div>
-<p>
+
+  
 ## About the Project
 
 `minishell` is a custom shell implementation in C, developed as part of the 42Paris curriculum. This project helped me appreciate the work done by the older generation of developers, gain a better understanding of how the shell works, and solidify my knowledge and skills in C and shell programming.
@@ -87,4 +88,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="left">
   <a href="https://www.linkedin.com/in/amine-ouichou-168236345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine ouichou" height="30" width="40" /></a>
 </p>
-</p>
+
