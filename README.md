@@ -1,4 +1,3 @@
-<div>
 <h1 align="center">minishell</h1>
 <h3 align="center">42Paris School Project</h3>
 
@@ -7,7 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" alt="Status">
   <img src="https://img.shields.io/badge/Score-101%25-brightgreen.svg" alt="Score">
 </p>
-</div>
 
   
 ## About the Project
