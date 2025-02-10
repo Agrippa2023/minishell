@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">minishell</h1>
 <h3 align="center">42Paris School Project</h3>
 
@@ -6,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" alt="Status">
   <img src="https://img.shields.io/badge/Score-101%25-brightgreen.svg" alt="Score">
 </p>
-
+</div>
 ## About the Project
 
 `minishell` is a custom shell implementation in C, developed as part of the 42Paris curriculum. This project helped me appreciate the work done by the older generation of developers, gain a better understanding of how the shell works, and solidify my knowledge and skills in C and shell programming.
